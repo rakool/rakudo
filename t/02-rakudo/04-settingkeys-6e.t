@@ -538,6 +538,7 @@ my %allowed = (
     Q{FileChanged},
     Q{FileRenamed},
     Q{ForeignCode},
+    Q{Formatter},
     Q{Grammar},
     Q{HardRoutine},
     Q{Hash},

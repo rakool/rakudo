@@ -539,6 +539,7 @@ my @expected = (
     Q{FileChangeEvent},
     Q{FileChanged},
     Q{FileRenamed},
+    Q{Formatter},
     Q{ForeignCode},
     Q{Grammar},
     Q{HardRoutine},
